@@ -1,4 +1,5 @@
 # Автор: Андрей Пакудин
+
 import math
 
 def add(a, b):
